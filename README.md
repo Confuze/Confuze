@@ -2,8 +2,6 @@
 
 I'm a fullstack developer and a being-a-no-one enthusiast.
 
----
-
 #### I use:
 - html, sass, typescript (and someday react) for the frontend.
 - node.js, mongoDB and express at the backend.
