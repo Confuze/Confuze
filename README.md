@@ -12,10 +12,6 @@ I'm a fullstack developer and a being-a-no-one enthusiast.
 - poker in python (yes, I am a masochist)
 - blackjack in emojicode (hell I am one)
 - a portfolio
-
-
----
-
-<br />
+</br>
 
 [![My Github stats that nobody cares about](https://github-readme-stats.vercel.app/api?username=Confuze&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
