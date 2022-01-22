@@ -3,11 +3,11 @@
 I'm a self taught fullstack developer from poland and a being-a-no-one enthusiast.
 
 #### About me:
-- ✍  I code stupid projects for fun as a hobby
-- 💻  I mostly do websites but I happen to develop other things like discord bots
-- ❤  I am a big fan of typescript and laziness
+- ✍ I code stupid projects for fun as a hobby
+- 💻 I mostly do websites but I do happen to develop other things like discord bots from time to time
+- ❤ I am a big fan of typescript and laziness
 - 🚲 Besides coding I also enjoy downhill cycling and skiing
-- Wanna get in touch? Dm me on [discord](discord.com/users/469425967845343233) or <a href="mailto:confuze.graph.11@gmail.com">email</a> me
+- 💬 Wanna get in touch? Dm me on [discord](discord.com/users/469425967845343233) or <a href="mailto:confuze.graph.11@gmail.com">email</a> me
 
 #### Some technologies that I'm familiar with:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -27,6 +27,5 @@ I'm a self taught fullstack developer from poland and a being-a-no-one enthusias
 - a portfolio
 - some other private projects
 </br>
-  
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=Confuze&show_icons=true&theme=github_dark"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confuze&langs_count=3&theme=github_dark"></a>
