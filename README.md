@@ -4,7 +4,7 @@ I'm a self taught fullstack developer from poland and a being-a-no-one enthusias
 
 #### About me:
 - ✍ I code stupid projects for fun as a hobby
-- 💻 I mostly do websites but I do happen to develop other things like discord bots from time to time
+- 💻 I mostly make websites but I do happen to develop other things like discord bots from time to time
 - ❤ I am a big fan of typescript and laziness
 - 🚲 Besides coding I also enjoy downhill cycling and skiing
 - 💬 Wanna get in touch? Dm me on [discord](discord.com/users/469425967845343233) or <a href="mailto:confuze.graph.11@gmail.com">email</a> me
